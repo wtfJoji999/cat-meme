@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Edu Australia VIC WA NT Hand Precursive", serif;
+    text-align: center;
+}
+
+.Motivation-img{
+    border: 5px solid whitesmoke;
+    width: 100%;
+}
